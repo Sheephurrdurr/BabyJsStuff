@@ -1,5 +1,6 @@
 # BabyJsStuff
-Very small Javascript things
+
+Some small "projects" that will help me get a better understanding of Javascript.
 
 So far it contains:
 
